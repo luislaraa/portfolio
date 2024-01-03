@@ -4,7 +4,7 @@
 Degree in Economics and Data Science due May 2024
 
 ### Work Experience 
-Data Analyist Intern @ Point
+Data Analyist Intern @ Point in summer 2022
 - helped create price modeling.
 - Helped attract sales by modeling prospective clients.
 
