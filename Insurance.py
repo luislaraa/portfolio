@@ -9,7 +9,7 @@ Created on Mon May 2 20:14:02 2022
 %reset -f
 
 import os
-os.chdir(r"/Users/luislaraa/Desktop/Universidad de Navarra/4to_sem/progra/Proyecto de Progra/archive (4)")
+os.chdir(r"/Users/luislaraa/Desktop/archive (4)")
 
 #Here we start by importing all of the tools necessary for the analysis.
 import pandas as pd
