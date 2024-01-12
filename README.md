@@ -9,7 +9,10 @@ Data Analyist Intern @ Point in summer 2022
 - Helped attract sales by modeling prospective clients.
 
 ### Projects
-** Football's Formula: Quantifying the Factors that Drive National Team Glory **
+** Football's Formula: Quantifying the Factors that Drive National Team Glory. **
+** Insurance Analysis: Factors that influence an individual's expected insurance expenditure. **
+** Employee churn: Kaplan Meier analysis and survival of individual. **
+** Random Forest and Decision tree analysis on an exams dataset.  **
 
 ### Contact
 Email: luisenriquelara07@gmail.com
